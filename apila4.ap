@@ -1,0 +1,7 @@
+inicial=r
+aceptacion=p,f
+r,/,/;p,#
+p,x,/;p,x
+p,y,x;q,/
+q,y,x;q,/
+q,/,#;f,/

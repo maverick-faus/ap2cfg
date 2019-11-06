@@ -1,0 +1,6 @@
+inicial=r
+aceptacion=t
+r,c,/;s,c
+s,g,/;s,g
+s,f,g;s,/
+s,/,c;t,/

@@ -1,0 +1,7 @@
+inicial=a
+aceptacion=a,d
+a,/,/;b,#
+b,x,/;b,x
+b,y,x;c,/
+c,y,x;c,/
+c,/,#;d,/
